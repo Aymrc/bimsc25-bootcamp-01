@@ -1,1 +1,1 @@
-# bimsc25-bootcam-01
+# bimsc25-bootcamp-01
